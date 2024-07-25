@@ -3,7 +3,7 @@ export default function Card() {
     <>
       <div className=" bg-primary rounded-xl  min-w-96 py-7 shadow-lg hover:shadow-orange-200 duration-500 transition-all">
         <div className=" h-64 overflow-hidden max-w-80 mx-auto rounded-t-xl ">
-        <img className="" src="/src/assets/AsadFerozi.png" alt="pic" />
+        <img className="" src="/AsadFerozi.png" alt="pic" />
         </div>
         <div className="flex max-w-80 m-auto rounded-b-xl bg-primary-dark flex-col text-white justify-center items-center">
             <div className="flex items-center justify-center flex-col mt-3">
