@@ -11,15 +11,15 @@ function App() {
      <div className='flex flex-col gap-10 mt-10'>
       <div className='sm:flex sm:flex-col md:flex md:flex-row md:justify-evenly lg:flex lg:flex-row lg:justify-evenly xl:flex xl:flex-row xl:justify-evenly'>
       
-      <Card />
+      <Card name="Asad" />
       
-      <Card />
+      <Card name="Ferozi" />
       
       </div>
       <div className='sm:flex sm:flex-col md:flex md:flex-row md:justify-evenly lg:flex lg:flex-row lg:justify-evenly xl:flex xl:flex-row xl:justify-evenly'>
 
-      <Card />
-      <Card />
+      <Card name="Welcome"/>
+      <Card  name="PUCIT"/>
       
       </div>
       </div> 
